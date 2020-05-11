@@ -5,7 +5,7 @@
 	<section id="banner" class="major">
 		<div class="inner">
 			<header class="major">
-				<h1>Hi, my name is Obiora</h1>
+				<h1>Hi, my name is Obiora Nwude</h1>
 			</header>
 			<div class="content">
 				<p>Welcome to a basic Computer Based Testing System designed by me</p>
